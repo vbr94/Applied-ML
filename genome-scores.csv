@@ -1,0 +1,6 @@
+movieId,tagId,relevance,,,,g-score,,,gs-gt = tagid
+movieId,imdbId,tmdbId,,,,links,,,
+tagId,tag,,,,,g-tags,,,
+userId,movieId,rating,timestamp,,,rating,,,rating-tgs = userid
+movieId,title,genres,,,,movies,,,
+userId,movieId,tag,timestamp,,,tags,,,
